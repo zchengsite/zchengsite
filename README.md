@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<i class="pixel-orange"></i>
+<style>
+.pixel-orange {
+  height: 115px;
+  width: 95px;
+  position: relative;
+  display: inline-block;
+  margin: 20px;
+}
+</style>
